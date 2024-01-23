@@ -42,5 +42,5 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-application.git
+  https://github.com/ittani/Java-eCommerce-Application.git
    cd ecommerce-application
